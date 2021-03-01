@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    font-size: 20px;
+}
+
+#botonesBorrar{
+    color:red;
+}
+#contenedor{
+    position: relative;
+    width: 50%;
+    left: 30%;
+    top: 30px;
+    height: 400px;
+    background-color: #E8F099;
+    border: 3px solid blue;
+}
+#campoTexto{
+    width: 50%;
+    background-color: white;
+    position: relative;
+    height: 20px;
+    top: 14px;
+    left: 25%;
+    text-align: right;
+}
+
+#botones{
+    width: 70%;
+    position: relative;
+    height: 20px;
+    top: 30px;
+    left: 15%;
+    text-align: center; 
+}
+
+button{
+    position: relative;
+    width: 15%;
+}
+
